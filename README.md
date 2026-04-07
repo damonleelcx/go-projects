@@ -1,4 +1,4 @@
-# go-projects
+# project-docs
 
 个人技术笔记与少量示例代码，主题覆盖 **Go**、**云原生（Kubernetes / Docker）**、**分布式系统**、**AI Agent / RAG / MCP**、**消息与数据（Kafka、Redis、向量检索）** 等。
 
